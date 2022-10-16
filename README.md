@@ -17,5 +17,4 @@
 
 ***Метод ModifyArray реализован при помощи цикла: при соответствии условию элемента в массиве inputArray (т.е. количество символов в элементе <=3, в результирующий массив по индексу записывается значение данного элемента, индекс для результирующего массива инкрементируется.***
 
-**Блок-схема**: ДЗ Итоговое.drawio.png <code>[Ссылка]("https://github.com/HoroshoNaVolge/EKozlov.FinalTestWork/blob/master/EKozlov.FinalTestWork/%D0%91%D0%BB%D0%BE%D0%BA-%D0%A1%D1%85%D0%B5%D0%BC%D0%B0.%D0%94%D0%97%20%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5.drawio.png.")
-</code>
+**Блок-схема**: ДЗ Итоговое.drawio.png [Ссылка](https://github.com/HoroshoNaVolge/EKozlov.FinalTestWork/blob/577816661023c1a9b7234ca121456c92ad47e066/EKozlov.FinalTestWork/%D0%91%D0%BB%D0%BE%D0%BA-%D0%A1%D1%85%D0%B5%D0%BC%D0%B0.%D0%94%D0%97%20%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5.drawio.png)
